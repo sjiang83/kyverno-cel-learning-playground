@@ -19,8 +19,9 @@ Actionable summary (line-level, as of 2026-02-04):
   - blog release 1.16 (Keep): 5
   - docs/guides/exceptions.md v1beta1 (Must-fix; file touched by #1845 but lines unchanged): 5
   - docs/policy-types/cel-libraries.mdx (Must-fix; not touched by any open PR): 1
+
 | file_path | line/location | current_apiVersion | category | covered_by_open_pr | covered_line_by_1845 | covered_line_by_1812 | covered_line_by_1844 | covered_line_by_1815 | covered_line_by_1855 | covered_line_by_1795 | action |
-|---|---:|---|---|---|---|---|---|---|---|---|---|
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|
 | src/content/blog/announcing-kyverno-release-1.14/index.md | 121 | policies.kyverno.io/v1alpha1 | Keep | Yes #1812,#1845 | Yes | No | No | No | No | No | ask maintainer |
 | src/content/blog/announcing-kyverno-release-1.14/index.md | 161 | policies.kyverno.io/v1alpha1 | Keep | Yes #1812,#1845 | Yes | No | No | No | No | No | ask maintainer |
 | src/content/blog/announcing-kyverno-release-1.14/index.md | 207 | policies.kyverno.io/v1alpha1 | Keep | Yes #1812,#1845 | Yes | No | No | No | No | No | ask maintainer |
