@@ -1,4 +1,4 @@
-﻿Last checked: 2026-02-04 (America/New_York)
+Last checked: 2026-02-04 (America/New_York)
 
 Baseline: upstream/main @ a61b453fd6aebab403355ddf618ebeac52957f8c
 
@@ -19,6 +19,8 @@ Actionable summary (line-level, as of 2026-02-04):
   - blog release 1.16 (Keep): 5
   - docs/guides/exceptions.md v1beta1 (Must-fix; file touched by #1845 but lines unchanged): 5
   - docs/policy-types/cel-libraries.mdx (Must-fix; not touched by any open PR): 1
+
+## Checklist table
 
 | file_path | line/location | current_apiVersion | category | covered_by_open_pr | covered_line_by_1845 | covered_line_by_1812 | covered_line_by_1844 | covered_line_by_1815 | covered_line_by_1855 | covered_line_by_1795 | action |
 |---|---:|---|---|---|---|---|---|---|---|---|---|---|
